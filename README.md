@@ -1,1 +1,1 @@
-# AS-289R2_mPython
+# AS-289R2　mPython sample code
